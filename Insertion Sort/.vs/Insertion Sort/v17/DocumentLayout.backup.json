@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\Insertion Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B0C5F-CF33-4EA4-BB93-C883493C4D01}|Insertion Sort\\Insertion Sort.vcxproj|C:\\Users\\DELL\\Desktop\\code\\C_CODE\\Insertion Sort\\Insertion Sort\\Insertion Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA5B0C5F-CF33-4EA4-BB93-C883493C4D01}|Insertion Sort\\Insertion Sort.vcxproj|solutionrelative:Insertion Sort\\Insertion Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insertion Sort.c",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\Insertion Sort\\Insertion Sort\\Insertion Sort.c",
+              "RelativeDocumentMoniker": "Insertion Sort\\Insertion Sort.c",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\Insertion Sort\\Insertion Sort\\Insertion Sort.c*",
+              "RelativeToolTip": "Insertion Sort\\Insertion Sort.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-23T15:13:39.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

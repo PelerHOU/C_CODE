@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\att\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801F3FF1-0B9D-43FA-BFA3-8DCB422274C1}|att\\att.vcxproj|C:\\Users\\DELL\\Desktop\\code\\C_CODE\\att\\att\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801F3FF1-0B9D-43FA-BFA3-8DCB422274C1}|att\\att.vcxproj|solutionrelative:att\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\att\\att\\test.c",
+              "RelativeDocumentMoniker": "att\\test.c",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\code\\C_CODE\\att\\att\\test.c*",
+              "RelativeToolTip": "att\\test.c*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-24T15:26:02.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
